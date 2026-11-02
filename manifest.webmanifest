@@ -1,0 +1,12 @@
+{
+  "name": "DMV対策",
+  "short_name": "DMV対策",
+  "description": "カリフォルニア州DMV筆記試験の非公式練習アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6FBF3",
+  "theme_color": "#2B6A46",
+  "lang": "ja",
+  "icons": [{ "src": "IMG_3974.PNG", "sizes": "500x500", "type": "image/png", "purpose": "any" }]
+}
